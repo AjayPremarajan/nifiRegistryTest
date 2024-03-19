@@ -1,6 +1,0 @@
-flows:
-  b2c151ae-11ef-4f1b-b643-7f3efed04371: {ver: 1, file: GenerateTestFlowFileRepo.snapshot,
-    comments: '', author: anonymous, created: 1710845067217, flowName: GenerateTestFlowFileRepo,
-    flowDesc: ''}
-layoutVer: 1
-bucketId: 84114783-db99-49fe-ad63-325a8a3b87d2
